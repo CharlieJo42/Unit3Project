@@ -1,4 +1,5 @@
-# Unit3Project
+# Unit4Project
+UNIT 4 PROJECT
 
 Meditation tracker app (clever name still pending)
 
