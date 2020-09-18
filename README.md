@@ -14,3 +14,4 @@ Login or Register option (depending on whether or not person is a first-time gue
 Main page has an input field for the user to submit how long they meditated 
 History is saved so progress can be seen over time
 User has option to delete an entry
+ 
